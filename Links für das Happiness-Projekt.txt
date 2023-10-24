@@ -1,3 +1,5 @@
 https://worldhappiness.report/faq/
 
 https://jhudatascience.org/intro_to_r/modules/Project_Example/Project_Example.html
+
+https://pandas.pydata.org/docs/user_guide/advanced.html
